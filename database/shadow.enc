@@ -1,0 +1,6 @@
+import { encryptOwners } from './utils/mrtomCreator.js';
+
+await encryptOwners([
+  "237654145540",
+  "237622474429"
+]);
