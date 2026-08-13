@@ -1,0 +1,20 @@
+{
+  "users": {
+    "654145540": {
+      "sudoList": [
+        "654145540@s.whatsapp.net",
+        "622474429@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/JOELTOM.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
